@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962767077514",
+    "firebase_url": "https://cherrypiefilkomub.firebaseio.com",
+    "project_id": "cherrypiefilkomub",
+    "storage_bucket": "cherrypiefilkomub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962767077514:android:37d8fd386c97f26d5aad73",
+        "android_client_info": {
+          "package_name": "sherryl.sindarto.projectakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962767077514-cg85gbbavcu0o5jpe29gqrj5u2vqpug0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sherryl.sindarto.projectakhir",
+            "certificate_hash": "18dba95c4c3ef59e92066bc054a611aa738f4cd7"
+          }
+        },
+        {
+          "client_id": "962767077514-b7fe0n8efg71b72r3ibu8abbkqpcgbd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPh3Shv7E7pKiPvUsv_OF8K01aQyCieRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962767077514-b7fe0n8efg71b72r3ibu8abbkqpcgbd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
